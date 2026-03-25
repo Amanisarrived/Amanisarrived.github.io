@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.ballbyball.app",
+      "sha256_cert_fingerprints": [
+        "69:19:E9:84:43:0E:80:62:E4:CA:16:B2:16:FC:02:E8:9B:69:E0:6A:D3:7C:77:23:7A:A6:48:F1:89:DC:B7:4E"
+      ]
+    }
+  }
+]
